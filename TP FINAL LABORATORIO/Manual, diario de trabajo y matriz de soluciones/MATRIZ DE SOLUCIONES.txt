@@ -1,0 +1,15 @@
+TP Final Laboratorio I - Facundo Meniy
+
+Problemas que se me presentaron:
+
+- Hacer un menu interactivo: Logre realizar un menu de opciones que se ejecute hasta que el usuario decida salir del programa, en lugar de ejecutarse una sola vez y luego tener que ejecutar el programa otra vez.
+
+- Menu interactivo (pantalla): Aprendi a usar la funcion system("cls") para limpiar la pantalla y que no se mezclen los textos.
+
+- Errores al cargar las estructuras: Si el usuario ingresaba texto en una variable int, y viceversa ocurrian errores al cargar la estructura, ademas de que se podian ingresar numeros negativos. Agregue condiciones que no permitan que el usuario ingrese un valor no deseado.
+
+- IDs no deseados: El programa permitia ingresar astronautas, naves y misiones con el mismo ID, lo que provocaba un mal funcionamiento del programa al momento de mostrar y modificar astronautas. Lo solucione comprobando si el ID correspondiente ya estaba registrado, no dejando al usuario ingresar un ID repetido. 
+
+- Asignar naves a mision: El programa permitia ingresar naves con un estado diferente al de "LISTA PARA USO", lo que era incoherente. Ahora el programa solo permite ingresar naves con el estado de lista para uso. Lo resolvi comprobando si el estado de la nave era el deseado.
+
+- Asignar tripulantes a mision: Lo mismo que con las naves, pero en este caso se permitia asignar astronautas inactivos a la mision. Se soluciono el problema comprobando el estado del astronauta al momento de agregarlo.

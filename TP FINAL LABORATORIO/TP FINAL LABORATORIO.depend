@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1687368764 source:d:\usuario\desktop\tp final laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"astro.h"
+	"naves.h"
+	"misiones.h"
+
+1685746767 source:d:\facundo\utn facu\programacion\programacion 1\trabajo final programacion\tp final laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1685800917 source:d:\facundo\utn facu\programacion\programacion 1\tp final laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"astro.h"
+
+1685800093 d:\facundo\utn facu\programacion\programacion 1\tp final laboratorio\astro.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1687369283 d:\usuario\desktop\tp final laboratorio\astro.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1686865680 source:d:\facundo\utn facu\tp final laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"astro.h"
+
+1686866633 d:\facundo\utn facu\tp final laboratorio\astro.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1686851280 source:d:\usuario\escritorio\tp final laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"astro.h"
+
+1686868977 d:\usuario\escritorio\tp final laboratorio\astro.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1687369937 d:\usuario\desktop\tp final laboratorio\naves.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1687373123 d:\usuario\desktop\tp final laboratorio\misiones.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1687458864 source:d:\usuario\desktop\tp final laboratorio - meniy facundo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"astro.h"
+	"naves.h"
+	"misiones.h"
+
+1687460730 d:\usuario\desktop\tp final laboratorio - meniy facundo\astro.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1687460737 d:\usuario\desktop\tp final laboratorio - meniy facundo\naves.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1687535165 d:\usuario\desktop\tp final laboratorio - meniy facundo\misiones.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1687550497 source:d:\usuario\desktop\tp final laboratorio (version final) - meniy facundo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"astro.h"
+	"naves.h"
+	"misiones.h"
+
+1687629843 d:\usuario\desktop\tp final laboratorio (version final) - meniy facundo\astro.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1687711005 d:\usuario\desktop\tp final laboratorio (version final) - meniy facundo\naves.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1687630266 d:\usuario\desktop\tp final laboratorio (version final) - meniy facundo\misiones.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1687550497 source:d:\usuario\desktop\tp final laboratorio (terminado) - meniy facundo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"astro.h"
+	"naves.h"
+	"misiones.h"
+
+1687629843 d:\usuario\desktop\tp final laboratorio (terminado) - meniy facundo\astro.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1687711005 d:\usuario\desktop\tp final laboratorio (terminado) - meniy facundo\naves.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1687630266 d:\usuario\desktop\tp final laboratorio (terminado) - meniy facundo\misiones.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
